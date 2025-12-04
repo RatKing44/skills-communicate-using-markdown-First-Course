@@ -8,7 +8,11 @@ if(ghost.isScary){
   ghost.scare(viewer);
 }
 ```
-
 # Scared ya! #
+
+
+- [x] Present Scary Ghost to viewer
+- [x] Attempt to scare the viewer
+- [ ] Apologize if the scare was too scary
 
 
